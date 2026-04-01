@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment and secrets
+.env
+*.env.local
+
+# SQLite database artifacts
+*.db
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Coverage / test outputs
+.pytest_cache/
+htmlcov/
+coverage.xml
